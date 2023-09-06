@@ -1,10 +1,10 @@
 # Class in 2023
 ## 23-1
-### Network Programming
-### Embedded System
-### Convergence Capstone Design
+### Network Programming (Junior)
+### Embedded System (Senior)
+### Convergence Capstone Design (Senior)
 
 ## 23-2
-### Data Communication
-### Hacking and Defense
-### Convergence Capstone Design
+### Data Communication (Sophomore)
+### Hacking and Defense (Senior)
+### Convergence Capstone Design (Senior)
